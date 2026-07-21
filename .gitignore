@@ -1,8 +1,6 @@
-config-index.jsex.js
+.idea/
 node_modules/
 server_console.log
 requests.log
-.idea/
 package-lock.json
 tmp/
-/routes/apis/*.js.map
